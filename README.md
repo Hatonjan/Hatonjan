@@ -2,7 +2,7 @@
 
 I'm a Computer Science student with a passion for technology and a love for building software that solves real problems. My journey blends academic exploration with hands-on development, where I turn curiosity into code and ideas into interactive experiences.
 
-![Hatonjan's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Jonathan's Stats](https://github-readme-stats.vercel.app/api?username=hatonjan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -16,7 +16,7 @@ I'm a Computer Science student with a passion for technology and a love for buil
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,sql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,SQL,git)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
