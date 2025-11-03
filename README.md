@@ -16,7 +16,7 @@ I'm a Computer Science student with a passion for technology and a love for buil
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,CSS,react,p5js,python,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,CSS,p5js,python,git,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
