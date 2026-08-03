@@ -6,7 +6,7 @@ I'm a Computer Science student with a passion for technology and a love for buil
 
 ## 🚀 About Me
 
--  🎓 Pursuing a Bachelor's in Computer Science through the University of London (Online).
+-  🎓 Pursuing a Bachelor's in Computer Science through the University of London (International Program).
 -  💻 Freelancing in Web Design to support my education and sharpen my skills [Web Design](https://mjscott.dev/),.
 -  🧠 Passionate about ethical design, accessibility, and crafting user-centric digital experiences.
 
