@@ -16,11 +16,11 @@ I'm a Computer Science student with a passion for technology and a love for buil
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,p5js,python,django,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,p5js,python,django,nodejs,git,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- Web development, fundamentals of computer science, and algorithm and data structure.
+- Web development, fundamentals of computer science, and algorithms and data structures.
 - React for dynamic front-end experiences and scalable UI architecture.
 - CSS animations and styling for responsive, modern interfaces.
 
